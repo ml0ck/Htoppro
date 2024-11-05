@@ -1,0 +1,23 @@
+## Requirements
+
+To run htoppro, you need the following:
+
+- **Python 3**: Ensure Python 3.x is installed.
+- **htop**: Install using:
+  ```bash
+  sudo pacman -S htop
+
+  sudo pacman -S tilix
+
+  Cowsay: Install using:
+
+bash
+
+sudo pacman -S cowsay
+
+Colorama: Install using: pip install colorama
+
+git clone https://github.com/yourusername/htoppro.git
+cd htoppro
+
+ !! :sudo ./htoppro.py
