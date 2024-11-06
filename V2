@@ -1,0 +1,24 @@
+System Process Manager 💻⚙️
+
+A sleek, user-friendly and interactive System Process Manager built in Python using Tkinter and psutil. 🚀 Monitor and manage your system processes in real-time with a GUI that combines functionality and style! Inspired by the classic htop terminal tool, but with a twist—an intuitive interface with the power of a full-fledged desktop application. ✨
+Features 🛠️
+
+    Real-time Process Monitoring: See your processes live as they happen! 🌐
+    Process Control: Want to kill a troublesome process? You can do it with just a click! 💥
+    Stylish and Intuitive UI: Clean and modern design, complete with a beautiful ASCII-inspired theme, all powered by Tkinter and the Python psutil library. 🎨
+    Detailed Process Information: View essential details like PID, name, CPU usage, memory consumption, and more. 📊
+    Menu and Process Management: A familiar, user-friendly interface that feels right at home on your desktop. 🖥️
+
+Tech Stack ⚡
+
+    Python 🐍: Core language used to build the application.
+    Tkinter 🖼️: The go-to GUI toolkit for Python.
+    psutil ⚙️: A cross-platform library to retrieve system and process information.
+    Pillow 🖼️: For handling image rendering and visual enhancement.
+
+Why This Project? 🤔
+
+This project is perfect for anyone who wants to keep an eye on their system processes without firing up a terminal. Whether you're a developer, a system admin, or just a curious geek 🧑‍💻, this app is designed to make managing your system processes a breeze.
+
+It's fast, functional, and most importantly, fun! 😎
+Screenshots 📸
